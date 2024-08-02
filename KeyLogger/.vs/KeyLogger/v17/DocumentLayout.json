@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ardau\\OneDrive\\Desktop\\Projelerim\\KeyLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F720F264-D51D-48C9-8235-86544D438F25}|KeyLogger\\KeyLogger.csproj|c:\\users\\ardau\\onedrive\\desktop\\projelerim\\keylogger\\keylogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F720F264-D51D-48C9-8235-86544D438F25}|KeyLogger\\KeyLogger.csproj|solutionrelative:keylogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F720F264-D51D-48C9-8235-86544D438F25}|KeyLogger\\KeyLogger.csproj|c:\\users\\ardau\\onedrive\\desktop\\projelerim\\keylogger\\keylogger\\keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F720F264-D51D-48C9-8235-86544D438F25}|KeyLogger\\KeyLogger.csproj|solutionrelative:keylogger\\keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Keys.cs",
+              "DocumentMoniker": "C:\\Users\\ardau\\OneDrive\\Desktop\\Projelerim\\KeyLogger\\KeyLogger\\Keys.cs",
+              "RelativeDocumentMoniker": "KeyLogger\\Keys.cs",
+              "ToolTip": "C:\\Users\\ardau\\OneDrive\\Desktop\\Projelerim\\KeyLogger\\KeyLogger\\Keys.cs",
+              "RelativeToolTip": "KeyLogger\\Keys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:46:50.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ardau\\OneDrive\\Desktop\\Projelerim\\KeyLogger\\KeyLogger\\Program.cs",
+              "RelativeDocumentMoniker": "KeyLogger\\Program.cs",
+              "ToolTip": "C:\\Users\\ardau\\OneDrive\\Desktop\\Projelerim\\KeyLogger\\KeyLogger\\Program.cs",
+              "RelativeToolTip": "KeyLogger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:09:00.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
